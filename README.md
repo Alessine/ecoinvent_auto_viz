@@ -43,6 +43,7 @@ Transform exploratory analysis results from previous milestones into a high qual
 Outcomes
 ---------
 As the final outcome of the capstone project, we consolidated all of our code into a python module containing six different scripts. With the help of these, the bar plots and treemaps for the entire data base can be created with one command. The run time per system model (~20'000 data sets) is estimated to be around 10 hours (without the use of an external CPU).
+
 A recording of the final presentation of these results can be accessed [here](https://drive.google.com/file/d/1Jh67n0SGt3aIAk883NEZUIKCw5ZzZ4Sh/view?usp=sharing) and the project was also covered in this [blog post](https://propulsion.academy/blog/data-science-abschlussprojekte-batch-13).
 
 Requirements
