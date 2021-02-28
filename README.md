@@ -1,6 +1,6 @@
 # Automated data visualization and reporting with ecoinvent
 
-
+![](fertilizers_slider_3.7_2.jpg)
 
 Automating the visualization of data sets from the ecoinvent data base in their automatic pdf creator.
 
