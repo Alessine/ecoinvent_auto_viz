@@ -28,11 +28,6 @@ Project description
 Organisations increasingly look to understand the end-to-end impact a product has on the environment. For this purpose, ecoinvent provides a comprehensive life cycle assessment database to thousands of companies such as Toyota, Lego and Procter & Gamble as well as government organisations and universities. Though the data sets are comprehensible on their own, the underlying calculations and methods used to estimate environmental impacts can be complex and overwhelming to understand for most people. 
 In this project, Angela Niederberger and Sarah Dutschke helped ecoinvent make their holistic reports more user friendly by adding data visualisations representing the impacts and network structure of production chains. The main challenges were to make those visualisations fit for about 60’000 diverse data sets in a uniform way, displaying only the most relevant information statically. The python script produced in this project will be integrated into ecoinvent’s automatic pdf generator, thereby reaching thousands of clients.
 
-Key words & Features of the code
---------------------------------
-Matrix calculations, list preparation, logging functions, save to powerpoint, save as png/jpg/svg file, automatic scaling where necessary, handling of negative values, plotly, nested treemaps, horizontal bar plots, visualization of network structures, life-cycle assessment
-
-
 Project Milestones
 -------------------
 
@@ -44,6 +39,10 @@ Network structure visualization: Add a treemap plot for each method to show the 
 
 ### Milestone 3
 Transform exploratory analysis results from previous milestones into a high quality documented code that can run on a large amount of datasets and integrate flawlessly into the existing release pipeline.
+
+Outcomes
+---------
+As the final outcome of the capstone project, we consolidated all of our code into a python module containing six different scripts. With the help of these, the bar plots and treemaps for the entire data base can be created with one command. The run time per system model (~20'000 data sets) is estimated to be around 10 hours (without the use of an external CPU).
 
 Project Organization
 ------------
@@ -77,6 +76,3 @@ Project Organization
     
   
 
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
