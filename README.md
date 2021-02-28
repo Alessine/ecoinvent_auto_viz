@@ -2,7 +2,7 @@
 
 ![](fertilizers_slider_3.7_2.jpg)
 
-This repository documents the deliverables of the capstone project of Propulsion Academy's Data Science program, which were elaborated by Angela Niederberger and Sarah Dutschke in collaboration with ecoinvent. The information presented here is not approved for any kind of commercial use.
+This repository documents the deliverables of a capstone project of Propulsion Academy's Data Science program, which were elaborated by Angela Niederberger and Sarah Dutschke in collaboration with ecoinvent. The information presented here is not approved for any kind of commercial use.
 
 Project Team
 -----------
