@@ -2,7 +2,7 @@
 
 ![](fertilizers_slider_3.7_2.jpg)
 
-Automating the visualization of data sets from the ecoinvent data base in their automatic pdf creator.
+Automating the visualization of life cycle assessment data sets from the ecoinvent data base in their automatic pdf creator.
 
 Project Team
 -----------
@@ -19,7 +19,13 @@ Supervisors
 
 Company
 -------
-[EcoInvent](https://www.ecoinvent.org/) & [Propulsion Academy](https://propulsion.academy/)
+[ecoinvent](https://www.ecoinvent.org/) 
+Ecoinvent is a not-for-profit association that provides the world’s most consistent and transparent life cycle inventory database to a wide range of companies, government organizations and universities.
+
+[Propulsion Academy](https://propulsion.academy/)
+Propulsion Academy is a coding and data science academy offering a variety of full-time, part-time, and corporate programs to motivated learners looking to enhance their careers with technology.
+
+**Note**: This repository documents the deliverables of the capstone project of Propulsion Academy's Data Science program, which were elaborated by Angela Niederberger and Sarah Dutschke in collaboration with ecoinvent. The information presented here is not approved for any kind of commercial use.
 
 Project description
 -------------------
