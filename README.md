@@ -17,7 +17,7 @@ Supervisors
 [Albin Plathottathil](https://www.linkedin.com/in/albin-plathottathil/), 
 [Nitin Kumar](https://www.linkedin.com/in/drnitinkumar)
 
-Company
+Partners
 -------
 [ecoinvent](https://www.ecoinvent.org/) is a not-for-profit association that provides the world’s most consistent and transparent life cycle inventory database to a wide range of companies, government organizations and universities.
 
@@ -36,10 +36,10 @@ Project Milestones
 Impact visualization: Improve the table showing impact score, by adding a chart that shows the most significant contributors ('flow compartments'). Use data calculated from our release script, provided as csv files. This chart should allow to identify which part of the supply chain is responsible for impact score on the commonly used impact assessment methods.
 
 ### Milestone 2
-Network structure visualization: Add a treemap plot for each method to show the main contributors (impacts and emissions). It should display as many levels as necessary until it the main contributor is below 50%. However, total limit of levels to diplay are 5. Use data calculated from our release script, provided as csv files. 
+Network structure visualization: Add a treemap plot for each method to show the main contributors (impacts and emissions). It should display as many levels as necessary until the main impact contributor is below 50%. However, the limit of levels to diplay is five, due to space constraints. The data was provided as csv files and individual scores are calculated in the scripts. 
 
 ### Milestone 3
-Transform exploratory analysis results from previous milestones into a high quality documented code that can run on a large amount of datasets and integrate flawlessly into the existing release pipeline.
+Transform the exploratory analysis results from the previous milestones into a high quality documented code that can run on a large amount of datasets and integrate flawlessly into the existing release pipeline.
 
 Outcomes
 ---------
