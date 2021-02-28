@@ -19,11 +19,9 @@ Supervisors
 
 Company
 -------
-[ecoinvent](https://www.ecoinvent.org/) 
-Ecoinvent is a not-for-profit association that provides the world’s most consistent and transparent life cycle inventory database to a wide range of companies, government organizations and universities.
+[ecoinvent](https://www.ecoinvent.org/) is a not-for-profit association that provides the world’s most consistent and transparent life cycle inventory database to a wide range of companies, government organizations and universities.
 
-[Propulsion Academy](https://propulsion.academy/)
-Propulsion Academy is a coding and data science academy offering a variety of full-time, part-time, and corporate programs to motivated learners looking to enhance their careers with technology.
+[Propulsion Academy](https://propulsion.academy/) is a coding and data science academy offering a variety of full-time, part-time, and corporate programs to motivated learners looking to enhance their careers with technology.
 
 Project description
 -------------------
