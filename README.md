@@ -1,7 +1,8 @@
-# Automated data visualization and reporting with EcoInvent
-==============================
+# Automated data visualization and reporting with ecoinvent
 
-Automating the visualization of data sets from the EcoInvent data base in their automatic pdf creator.
+
+
+Automating the visualization of data sets from the ecoinvent data base in their automatic pdf creator.
 
 Project Team
 -----------
