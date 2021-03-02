@@ -47,25 +47,49 @@ As the final outcome of the capstone project, we consolidated all of our code in
 
 A recording of the final presentation of these results can be accessed [here](https://drive.google.com/file/d/1Jh67n0SGt3aIAk883NEZUIKCw5ZzZ4Sh/view?usp=sharing) and the project was also covered in this [blog post](https://propulsion.academy/blog/data-science-abschlussprojekte-batch-13).
 
+Results: example plots
+---------
+Example 1: 'combine harvesting (CH)'
+![](barplot_1.png)
+![](treemap_1.png)
+
+Example 2: 'power sawing, without catalytic converter (RER)'
+![](barplot_2.png)
+![](treemap_2.png)
+
 Requirements
 ------------
-The libraries required to run this product are the following:
-- numpy
-- pandas
-- plotly, version 4.14.3 or newer
-- pypardiso
-- scipy
-- xlwt
+The libraries required to run this product are the following (details in environment.yml and environment2.yml):
+  - ipykernel
+  - pandas
+  - plotly, version 4.14.3 or newer
+  - time
+  - xlwt
+  - scipy
+  - psutil
+  - requests
+  - plotly-orca
+  - pypardiso
+  - os
 
 Repository Structure
 ------------
     ├── README.md       <- top-level README file for anybody interested in this project
     ├── logs            <- new dir, created automatically, contains generated log for barplot and treemap generation
     ├── plots           <- new dir, created automatically, contains generated example plots in png format
+    ├── environment.yml <- environment file that lists the channels and dependencies needed for this project
+    ├── environment2.yml <- detailed environment file that contains specific versions used for this project
     └── src             <- contains the following python scripts required for plotting
-        ├── data_loading.py         <- Adjust general settings here (path, font_type, hues, etc.) and find script for data import
+        ├── data_loading.py         <- Adjust general settings here (path, font_type, hues, etc.) and find script for data import 
         ├── data_processing.py      <- Script to preprocess data for both barplots and treemaps.
         ├── helper_functions.py     <- Script for auxiliary functions
         ├── list_preparation.py     <- Script for further data processing for treemaps.
         ├── main.py                 <- Main script to produce barplots and treemaps in png format while generating a log in excel/csv.
         └── plotting_functions.py   <- Script with subfunctions to plot barcharts and/or treemaps while generating a log in excel/csv.
+
+
+Further information
+------------
+- Explanation of different [system models](https://www.ecoinvent.org/database/system-models-in-ecoinvent-3/system-models-in-ecoinvent-3.html) from ecoinvent
+- ecoinvent's [example reports pdf](https://www.ecoinvent.org/support/documents-and-files/example-datasets/example-datasets.html)
+![](pdf_teaser.png)
