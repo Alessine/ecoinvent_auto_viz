@@ -49,15 +49,15 @@ A recording of the final presentation of these results can be accessed [here](ht
 
 Results: example plots
 ---------
-Example 1: 'combine harvesting (CH)'
-
-![](barplot_1.png)
-![](treemap_1.png)
-
-Example 2: 'power sawing, without catalytic converter (RER)'
+Example 1: 'power sawing, without catalytic converter (RER)'
 
 ![](barplot_2.png)
 ![](treemap_2.png)
+
+Example 2: 'combine harvesting (CH)'
+
+![](barplot_1.png)
+![](treemap_1.png)
 
 Requirements
 ------------
@@ -88,7 +88,6 @@ Repository Structure
         ├── list_preparation.py     <- Script for further data processing for treemaps.
         ├── main.py                 <- Main script to produce barplots and treemaps in png format while generating a log in excel/csv.
         └── plotting_functions.py   <- Script with subfunctions to plot barcharts and/or treemaps while generating a log in excel/csv.
-
 
 Further information
 ------------
