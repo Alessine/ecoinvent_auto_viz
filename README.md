@@ -7,8 +7,8 @@ This repository documents the deliverables of a capstone project of Propulsion A
 Project Team
 -----------
 
-[Sarah Dutschke](https://www.linkedin.com/in/sarah-dutschke/), 
-[Angela Niederberger](https://www.linkedin.com/in/angela-niederberger/)
+[Angela Niederberger](https://www.linkedin.com/in/angela-niederberger/),
+[Sarah Dutschke](https://www.linkedin.com/in/sarah-dutschke/)
 
 Supervisors
 -----------
